@@ -56,7 +56,6 @@ function App() {
     { name: "Joe Rogan",          desc: "Podcast.com",        img: Joe ,    href:"https://en.wikipedia.org/wiki/Joe_Rogan"},
     { name: "Elon Musk",          desc: "Wealth.com",         img: Elon ,   href:"https://en.wikipedia.org/wiki/Elon_Musk"},
     { name: "Robert Greene",      desc: "Writer.com",         img: Robert,  href:"https://en.wikipedia.org/wiki/Robert_Greene_(American_author)" },
-    //{ name: "Rudra P Sinha",      desc: "Tech.com",           img: Robert,  href:"https://x.com/rudrapsinha" },
   ];
 
   //ToggleSwitch
